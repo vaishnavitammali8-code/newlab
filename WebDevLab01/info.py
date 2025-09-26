@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "/Users/google/Documents/WebDevLab01/Images/Vaishnavi_profile.jpg"
+profile_picture = "Images/Vaishnavi_profile.jpg"
 about_me = "Hi I'm Vaishnavi Tammali! I am a second year neuroscience student at Georgia Institute of Technology. "
 
 
@@ -31,9 +31,9 @@ course_data = {
     "skills":["Python", "Understanding the Brain", "Applying Neuroscience to models", "Lots of matrices", "Many Organic Chem Models","Past Jazz singers and contributions to Jazz","Researching Screentime effect on adolescent brain development"],
     }
 experience_data = {
-    "Door Monitor at Grady Mother/Baby Unit": (["- Check in visitors into the Mother/Baby unit", "- Communicate with patients about maximum vistor policy", "- Kept the Mother/Baby Unit safe from unwanted visitors"],"/Users/google/Documents/WebDevLab01/Images/jobGrady.jpg"),
-    "Volunteer at Northside Hospital":(["- Visited Patient rooms and offered them activities", "- Communicated with patients about many things to help make their time better"],"/Users/google/Documents/WebDevLab01/Images/NorthsideVolunteer.jpg"),
-    "Undergraduate Researcher at Trends Center":(["- Clean data using program R ","- Research about ways negative effects of screentime use effet adolescent cognitive development" ],"/Users/google/Documents/WebDevLab01/Images/ResearchPic.jpg")
+    "Door Monitor at Grady Mother/Baby Unit": (["- Check in visitors into the Mother/Baby unit", "- Communicate with patients about maximum vistor policy", "- Kept the Mother/Baby Unit safe from unwanted visitors"],"Images/jobGrady.jpg"),
+    "Volunteer at Northside Hospital":(["- Visited Patient rooms and offered them activities", "- Communicated with patients about many things to help make their time better"],"Images/NorthsideVolunteer.jpg"),
+    "Undergraduate Researcher at Trends Center":(["- Clean data using program R ","- Research about ways negative effects of screentime use effet adolescent cognitive development" ],Images/ResearchPic.jpg")
     }
 
 projects_data = {
@@ -65,7 +65,7 @@ spoken_data = {
     "Spanish": "Fluent",
 }
 
-leadership_data = {"Art Club Leader": (["- Brought painting activities for students"],"/Users/google/Documents/WebDevLab01/Images/Art.jpg"),
+leadership_data = {"Art Club Leader": (["- Brought painting activities for students"],"Images/Art.jpg"),
 
 }
 activity_data={
